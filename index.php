@@ -12,4 +12,7 @@ function newfunc(){
 function newfunc2(){
 	echo "m.pergi.com";
 }
+
+function add(){
+}
 ?>
