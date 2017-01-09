@@ -2,6 +2,6 @@
 
 //added by mike
 echo "testing";
-echo "testing2";
-echo "test";
+echo "testing.......";
+echo "testing2"
 ?>
